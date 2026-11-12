@@ -8,7 +8,7 @@ Run with:   python road_simulation.py or python3 road_simulation.py
 """
 
 SEGMENT_M = 100
-ZEBRA_WAIT = 5
+ZEBRA_WAIT = 15
 ACCELERATION = 5
 BRAKING = 20
 START_NAME = "ALU Rwanda"
